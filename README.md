@@ -12,8 +12,10 @@ You can use these binaries to enable the usage of curses on Windows Platforms.
 
 ```
 # requirements.txt
---find-links --find-links https://github.com/gtalarico/curses-win/releases/tag/2.2.0
+--find-links https://github.com/gtalarico/curses-win/releases/tag/2.2.0
 curses==2.2.0
+... 
+
 ```
 
 ### On setup.py

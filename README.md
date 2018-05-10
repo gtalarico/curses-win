@@ -2,7 +2,7 @@
 
 Windows Curses Binaries from https://www.lfd.uci.edu/~gohlke/pythonlibs/#curses
 
-## [Curses For Windows Issue tracker](https://bugs.python.org/issue2889)
+[Curses For Windows Issue tracker](https://bugs.python.org/issue2889)
 
 ## Usage
 
@@ -37,7 +37,7 @@ setup(
 
 Please read the the information below regarding the usage of these binaries
 
-## Note from the Authoer:
+## Note from the Author:
 
 ### Unofficial Windows Binaries for Python Extension Packages
 

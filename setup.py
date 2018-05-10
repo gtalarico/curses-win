@@ -11,6 +11,7 @@ with open('README.rst') as readme_file:
 setup(
     author="Gui Talarico",
     author_email='gui.talarico+pip@gmail.com',
+    version='0.1.',
     classifiers=[
         'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
@@ -27,10 +28,15 @@ setup(
     description="Curses Windows Binaries",
     license="Public Domain",
     long_description=readme,
-    include_package_data=True,
     keywords='curses,windows',
     name='curses-win',
     url='https://github.com/gtalarico/curses-win',
-    version='0.2.0',
     zip_safe=False,
+    dependency_links=[
+        'https://github.com/gtalarico/curses-win/releases/tag/2.2.0'
+        ],
+    install_requires=[
+        'curses==2.2.0'
+    ],
+    include_package_data=True,
 )

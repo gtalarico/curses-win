@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\gtalarico\\.env\\pipenv_pipes-IVPAilJp\\scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\gtalarico\\.env\\pipenv_pipes-IVPAilJp\\scripts\\python.exe",
+    "python.linting.enabled": false
 }

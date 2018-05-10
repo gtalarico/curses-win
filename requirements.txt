@@ -1,1 +1,0 @@
---no-index --find-links bin curses==2.2+utf8
